@@ -2,6 +2,6 @@
 You can analyze sales data
 
 ----------
-admin password : admin
+admin password : admin ; 
 user password : user
 ----------
